@@ -1,2 +1,6 @@
 git init -> to include git file in the folder
 git add . -> to add all the files instead selecting one file
+after  creating repository in the website we have to add origin
+-> git remote add origin https://github.com/Akkuniyash/githubdemo2.git
+git branch-> to check the branch
+ git branch -M main-> to change from master to main
