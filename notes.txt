@@ -1,0 +1,2 @@
+git init -> to include git file in the folder
+git add . -> to add all the files instead selecting one file
